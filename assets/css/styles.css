@@ -1,0 +1,228 @@
+/* class names */
+
+
+.box1{
+    display: inline-block;
+    position: relative;
+    background:rgb(218,245,97);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+.triangle1{
+    color:rgb(93, 169, 255);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid rgb(93, 169, 255);
+}
+
+.triangle2{
+    position: relative;left: 175px;
+    color:rgb(144, 226, 226);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(144, 226, 226);
+}
+
+.box2{
+    display: inline-block;
+    position: relative;
+    background:rgb(255,82,82);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.triangle3{
+    color:bisque;
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid bisque;
+}
+
+.triangle4{
+    position: relative;left: 175px;
+    color:rgb(255, 151, 24);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(255,151,24);
+}
+
+.box3{
+    display: inline-block;
+    position: relative;
+    background:rgb(221, 119, 213);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.triangle5{
+    color:rgb(255, 197, 231);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid rgb(255, 197, 231);
+}
+
+.triangle6{
+    position: relative;left: 175px;
+    color:rgb(139, 182, 240);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(139, 182, 240);
+}
+
+.box4{
+    display: inline-block;
+    background:rgb(148, 223, 233);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.triangle7{
+    color:rgb(211, 228, 148);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid rgb(211, 228, 148);
+}
+
+.triangle8{
+    position: relative;left: 175px;
+    color:rgb(255, 183, 142);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(255, 183, 142);
+}
+
+.box5{
+    display: inline-block;
+    background:rgb(253, 189, 199);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.triangle9{
+    color:rgb(241, 157, 136);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid rgb(241, 157, 136);
+}
+
+.triangle10{
+    position: relative;left: 175px;
+    color:rgb(202, 118, 195);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(202, 118, 195);
+}
+
+.box6{
+    display: inline-block;
+    background:rgb(192, 243, 201);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.triangle11{
+    color:rgb(139, 175, 253);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid rgb(139, 175, 253);
+}
+
+.triangle12{
+    position: relative;left: 175px;
+    color:rgb(196, 255, 230);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(196, 255, 230);
+}
+
+.box7{
+    display: inline-block;
+    background:rgb(192, 212, 255);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.triangle13{
+    color:bisque;
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid bisque;
+}
+
+.triangle14{
+    position: relative;left: 175px;
+    color:rgb(186, 243, 81);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(186, 243, 81);
+}
+
+.box8{
+    display: inline-block;
+    background:rgb(255, 239, 221);
+    width:350px;
+    height:350px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.triangle15{
+    color:rgb(157, 177, 231);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-bottom: 175px solid rgb(157, 177, 231);
+}
+
+.triangle16{
+    position: relative;left: 175px;
+    color:rgb(227, 155, 236);
+    width: 0;
+    height: 0;
+    border-left: 87.5px solid transparent;
+    border-right: 87.5px solid transparent;
+    border-top: 175px solid rgb(227, 155, 236);
+}
